@@ -1,37 +1,46 @@
-# Welcome to My Profile!
+# Aviraj Nimja
 
-## 🚀 About Me
-- **Name:** Aviraj Nimja
-- **Location:** [Your City/Region]
-- **Interests:** Software Development, Open Source, AI, Web Development
+## AI/ML Focused Profile
 
-## 🌟 Projects Highlights
-- [Project 1](https://github.com/yourusername/project1) - Brief description of project 1.
-- [Project 2](https://github.com/yourusername/project2) - Brief description of project 2.
-- [Project 3](https://github.com/yourusername/project3) - Brief description of project 3.
+Welcome to my GitHub profile! I am an AI/ML enthusiast with a passion for developing innovative solutions that leverage machine learning and artificial intelligence to solve real-world problems.
 
-## 📚 Skills
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Express, Django
-- **Tools:** Git, Docker, Jenkins
+### About Me
 
-## 🤝 Connect with Me
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- **Background**: I hold a degree in Computer Science with a specialization in Artificial Intelligence. My journey began with a fascination for algorithms and data analytics, which has evolved into a keen interest in machine learning.
 
-## 🛠️ Open Source Contributions
-- Contributed to [Open Source Project 1](https://github.com/opensourceproject1) - Brief description of contributions.
-- Participated in [Hackathon Name] - Overview of what you did.
+### Skills Matrix
 
-## 🎉 Fun Facts
-- I love hiking and nature photography! 
-- I’m a tech enthusiast who enjoys trying new programming languages.
+| Skill         | Proficiency Level |
+|---------------|------------------|
+| Python        | ⭐⭐⭐⭐⭐           |
+| TensorFlow    | ⭐⭐⭐⭐            |
+| PyTorch       | ⭐⭐⭐⭐            |
+| Data Visualization | ⭐⭐⭐⭐⭐       |
+| Machine Learning Algorithms | ⭐⭐⭐⭐⭐ |
 
-## 📅 Current Projects
-- Currently working on [Your Current Project](https://github.com/yourcurrentproject).
+### Projects Highlights
+
+#### 1. **AI Chatbot**
+   - Developed an interactive chatbot that utilizes NLP to respond to user queries in real-time.
+   - [Project Link](https://github.com/avirajnimja/chatbot)
+   
+#### 2. **Image Recognition App**
+   - Created an application using convolutional neural networks to classify images.
+   - [Project Link](https://github.com/avirajnimja/image-recognition)
+   
+### Interactive Elements
+
+- Check out my [portfolio](https://www.example.com) for a deeper dive into my projects and research.
+- Follow me on [LinkedIn](https://www.linkedin.com/in/avirajnimja) to connect professionally and discuss potential collaborations.
+
+### Professional Design
+
+My projects are designed with user experience in mind, adhering to modern design principles to ensure clarity and functionality. 
+
+Feel free to explore my repositories and get in touch for any queries or collaboration opportunities!  
 
 ---
 
-### Feel free to contact me for any inquiries or collaborations!  
-**Happy coding!**  
+**Last Updated:** 2026-02-09 17:01:07
+
+---
