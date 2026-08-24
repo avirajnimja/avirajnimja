@@ -87,8 +87,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=avirajnimja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=avirajnimja&theme=tokyonight&hide_border=true&locale=en&v=2" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avirajnimja&theme=tokyonight" />
+<img width="49%" src="https://streak-stats.demolab.com?user=avirajnimja&theme=tokyonight&hide_border=true&locale=en&v=2" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avirajnimja&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avirajnimja&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avirajnimja&theme=tokyonight" />
 
 </div>
 
