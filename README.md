@@ -88,7 +88,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=avirajnimja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=avirajnimja&theme=tokyonight&hide_border=true&locale=en" />
+<img height="170" src="https://streak-stats.demolab.com?user=avirajnimja&theme=tokyonight&hide_border=true&locale=en&v=2" />
 
 </div>
 
