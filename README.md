@@ -41,6 +41,8 @@
 
 </div>
 
+<div align="center">
+
 **What I actually do with them:**
 
 | 🔥 Area | 🧰 Tools |
@@ -50,15 +52,21 @@
 | GraphRAG | Neo4j, Cypher query generation via LLM |
 | MLOps & Serving | Docker, FastAPI, MLflow, Airflow, Celery, ONNX Runtime |
 
+</div>
+
 ---
 
 ### 🚀 Featured Projects
+
+<div align="center">
 
 | Project | What it does |
 |---|---|
 | [**rag_ai**](https://github.com/avirajnimja/rag_ai) 📚 | Retrieval-Augmented Generation pipeline — grounding LLM answers in real documents |
 | [**first_ai_agent**](https://github.com/avirajnimja/first_ai_agent) 🤖 | Autonomous AI agent experimenting with tool use and reasoning loops |
 | [**scrapper**](https://github.com/avirajnimja/scrapper) 🕷️ | Web scraping pipeline in Python |
+
+</div>
 
 <details>
 <summary>🏆 <b>Production highlights @ work</b> <i>(client-confidential, so no code — but real numbers)</i></summary>
@@ -79,14 +87,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=avirajnimja&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=avirajnimja&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=avirajnimja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=avirajnimja&theme=tokyonight&hide_border=true&locale=en" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=avirajnimja&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?user=avirajnimja&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
