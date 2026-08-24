@@ -1,81 +1,101 @@
-# 🚀 Aviraj Nimja
+<img src="https://raw.githubusercontent.com/avirajnimja/avirajnimja/output/github-snake.svg" alt="Snake animation" width="100%" />
+
+<h1 align="center">Hi there, I'm Aviraj Nimja ⚡</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=16537E&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%40+Ramognee+(Rapifuzz);Fine-tuning+LLMs+with+LoRA+%26+PEFT;Building+RAG+%2B+GraphRAG+Pipelines;Shipping+GenAI+to+Production+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <div align="center">
 
-**AI/ML Engineer | LLM Fine-Tuning · RAG · GraphRAG | MLOps**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aviraj-nimja-31312b252)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirajnimja12@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avirajnimja)
 
-[![GitHub followers](https://img.shields.io/github/followers/avirajnimja?style=social)](https://github.com/avirajnimja)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviraj-nimja-31312b252)
+![](https://komarev.com/ghpvc/?username=avirajnimja&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 👋 About Me
+### 🧑‍💻 About Me
 
-I build AI systems that survive production. Currently an **AI/ML Engineer at Ramognee (Rapifuzz group)**, working across the full GenAI lifecycle — from fine-tuning open-source LLMs to deploying Dockerized inference services on-premises.
-
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning — NIIT University
-- 🔬 Focus: **LLM fine-tuning (LoRA/PEFT)**, **RAG pipelines**, **GraphRAG**, time-series forecasting
-- 📫 Contact: avirajnimja12@gmail.com
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-🤗%20Transformers-yellow?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)
-
-### Specialized Skills
-| Area | Tools |
-|:---|:---|
-| 🧠 LLMs & GenAI | LoRA / PEFT fine-tuning, LLaMA 2, Mistral, RoBERTa, prompt engineering |
-| 🔍 Retrieval | RAG, hybrid search (BM25 + semantic), Elasticsearch, embeddings |
-| 🕸️ GraphRAG | Natural language → Cypher over Neo4j knowledge graphs |
-| ⚙️ MLOps | MLflow, Airflow, Celery, ONNX Runtime, AWS SageMaker |
+- 🔭 Working at **Ramognee (Rapifuzz group)** on production GenAI systems
+- 🧠 I fine-tune **LLaMA 2 / Mistral** with LoRA and build **RAG pipelines** that actually ship
+- 🕸️ Built a **GraphRAG chatbot**: natural language → Cypher over a 500K+ entity Neo4j graph
+- ⚡ Fun fact: my bug-triage model cut triage time from **45 minutes → 90 seconds**
+- 📫 Reach me: **avirajnimja12@gmail.com**
 
 ---
 
-## 🚀 Highlights
-
-### 🤖 GraphRAG Chatbot
-LLM translates natural-language questions into Cypher queries against a 500K+ entity Neo4j graph. Hybrid BM25 + semantic retrieval grounds answers in graph facts to reduce hallucination.
-
-### 🕸️ Fraud Detection Knowledge Graph
-Neo4j-based relationship modeling over 500K+ entities — 30% reduction in false positives via graph-derived signals.
-
-### 📈 Security Incident Forecasting
-SARIMA time-series models serving SOC dashboards at <100 ms inference and 99.9% uptime — enabling proactive staffing during peak incident windows.
-
-### 🐞 Automated Bug Triage (NLP)
-Fine-tuned RoBERTa classifying vulnerability reports — triage time cut from 45 minutes to 90 seconds across 500+ daily reports.
-
----
-
-## 📊 GitHub Statistics
+### 🛠️ My Arsenal
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avirajnimja&show_icons=true&theme=radical)
+<a href="https://www.python.org">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,fastapi,docker&theme=light" />
+</a>
+<a href="https://aws.amazon.com">
+  <img src="https://skillicons.dev/icons?i=aws,neo4j,mysql,git,github,vscode&theme=light" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avirajnimja&layout=compact&theme=radical)
+</div>
+
+**What I actually do with them:**
+
+| 🔥 Area | 🧰 Tools |
+|---|---|
+| LLM Fine-Tuning | LoRA / PEFT, LLaMA 2, Mistral 7B, RoBERTa |
+| RAG & Retrieval | Hybrid search (BM25 + semantic), Elasticsearch, embeddings |
+| GraphRAG | Neo4j, Cypher query generation via LLM |
+| MLOps & Serving | Docker, FastAPI, MLflow, Airflow, Celery, ONNX Runtime |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| [**rag_ai**](https://github.com/avirajnimja/rag_ai) 📚 | Retrieval-Augmented Generation pipeline — grounding LLM answers in real documents |
+| [**first_ai_agent**](https://github.com/avirajnimja/first_ai_agent) 🤖 | Autonomous AI agent experimenting with tool use and reasoning loops |
+| [**scrapper**](https://github.com/avirajnimja/scrapper) 🕷️ | Web scraping pipeline in Python |
+
+<details>
+<summary>🏆 <b>Production highlights @ work</b> <i>(client-confidential, so no code — but real numbers)</i></summary>
+
+<br>
+
+- ⚡ Fine-tuned LLaMA 2-7B (LoRA) + ONNX Runtime → **35% lower inference latency**
+- 🎯 RAG with hybrid retrieval → **25% better answer relevance**
+- 🕸️ Neo4j fraud graph, 500K+ entities → **30% fewer false positives**
+- 🔁 Automated retraining pipelines → **6 hours → 45 minutes**
+- 🛡️ Bug triage NLP service → **45 min → 90 sec**, 500+ reports/day at 99.5% uptime
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=avirajnimja&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=avirajnimja&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avirajnimja&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviraj-nimja-31312b252)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:avirajnimja12@gmail.com)
+**💬 Open to AI/ML Engineer · LLM Engineer · GenAI Engineer roles**
 
-**Open to AI/ML Engineer, LLM Engineer, and GenAI Engineer roles.**
+*"The best way to predict the future is to invent it."* — Alan Kay
 
 </div>
