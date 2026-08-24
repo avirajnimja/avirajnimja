@@ -1,68 +1,59 @@
 # 🚀 Aviraj Nimja
 
 <div align="center">
-  
-  **AI/ML Engineer | Deep Learning Enthusiast | Open Source Contributor**
-  
-  [![GitHub followers](https://img.shields.io/github/followers/avirajnimja?style=social)](https://github.com/avirajnimja)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avirajnimja)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-success?style=flat)](https://www.example.com)
+
+**AI/ML Engineer | LLM Fine-Tuning · RAG · GraphRAG | MLOps**
+
+[![GitHub followers](https://img.shields.io/github/followers/avirajnimja?style=social)](https://github.com/avirajnimja)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviraj-nimja-31312b252)
 
 </div>
 
 ---
 
-## 👋 Welcome
+## 👋 About Me
 
-I'm an **AI/ML enthusiast** with a passion for developing innovative solutions that leverage machine learning and artificial intelligence to solve real-world problems. Currently exploring the intersection of deep learning, computer vision, and natural language processing.
+I build AI systems that survive production. Currently an **AI/ML Engineer at Ramognee (Rapifuzz group)**, working across the full GenAI lifecycle — from fine-tuning open-source LLMs to deploying Dockerized inference services on-premises.
 
----
-
-## 🎓 About Me
-
-- 🎯 **Background**: Computer Science degree with specialization in Artificial Intelligence
-- 💡 **Passion**: Algorithms, data analytics, and machine learning engineering
-- 🔬 **Focus Areas**: Neural Networks, Computer Vision, NLP, and Generative AI
-- 📚 **Always Learning**: Staying updated with cutting-edge AI research and frameworks
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning — NIIT University
+- 🔬 Focus: **LLM fine-tuning (LoRA/PEFT)**, **RAG pipelines**, **GraphRAG**, time-series forecasting
+- 📫 Contact: avirajnimja12@gmail.com
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-| Technology | Proficiency | Projects |
-|:---|:---:|:---|
-| ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | Core development |
-| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white) | ⭐⭐⭐⭐ | Deep learning models |
-| ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white) | ⭐⭐⭐⭐ | Neural networks |
-| ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?style=flat&logo=scikit-learn&logoColor=white) | ⭐⭐⭐⭐ | ML algorithms |
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-🤗%20Transformers-yellow?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)
 
 ### Specialized Skills
-| Area | Level |
-|:---|:---:|
-| 📊 Data Visualization | ⭐⭐⭐⭐⭐ |
-| 🤖 Machine Learning Algorithms | ⭐⭐⭐⭐⭐ |
-| 🧠 Deep Learning | ⭐⭐⭐⭐ |
-| 👁️ Computer Vision | ⭐⭐⭐⭐ |
-| 💬 Natural Language Processing | ⭐⭐⭐⭐ |
+| Area | Tools |
+|:---|:---|
+| 🧠 LLMs & GenAI | LoRA / PEFT fine-tuning, LLaMA 2, Mistral, RoBERTa, prompt engineering |
+| 🔍 Retrieval | RAG, hybrid search (BM25 + semantic), Elasticsearch, embeddings |
+| 🕸️ GraphRAG | Natural language → Cypher over Neo4j knowledge graphs |
+| ⚙️ MLOps | MLflow, Airflow, Celery, ONNX Runtime, AWS SageMaker |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Highlights
 
-### 🤖 **AI Chatbot** 
-Intelligent conversational AI with NLP capabilities
-- Real-time query response using advanced NLP techniques
-- Multi-turn conversation support
-- Intent recognition and entity extraction
-- **Status**: [![GitHub](https://img.shields.io/badge/-View%20Repository-181717?style=flat&logo=github)](https://github.com/avirajnimja/chatbot)
+### 🤖 GraphRAG Chatbot
+LLM translates natural-language questions into Cypher queries against a 500K+ entity Neo4j graph. Hybrid BM25 + semantic retrieval grounds answers in graph facts to reduce hallucination.
 
-### 🖼️ **Image Recognition App**
-State-of-the-art image classification system
-- Convolutional Neural Networks (CNN) architecture
-- Multi-class classification
-- Transfer learning implementation
-- **Status**: [![GitHub](https://img.shields.io/badge/-View%20Repository-181717?style=flat&logo=github)](https://github.com/avirajnimja/image-recognition)
+### 🕸️ Fraud Detection Knowledge Graph
+Neo4j-based relationship modeling over 500K+ entities — 30% reduction in false positives via graph-derived signals.
+
+### 📈 Security Incident Forecasting
+SARIMA time-series models serving SOC dashboards at <100 ms inference and 99.9% uptime — enabling proactive staffing during peak incident windows.
+
+### 🐞 Automated Bug Triage (NLP)
+Fine-tuned RoBERTa classifying vulnerability reports — triage time cut from 45 minutes to 90 seconds across 500+ daily reports.
 
 ---
 
@@ -82,32 +73,9 @@ State-of-the-art image classification system
 
 <div align="center">
 
-| Platform | Link |
-|:---|:---|
-| 💼 **LinkedIn** | [Profile](https://www.linkedin.com/in/avirajnimja) |
-| 🌍 **Portfolio** | [Website](https://www.example.com) |
-| 💻 **GitHub** | [Projects](https://github.com/avirajnimja) |
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviraj-nimja-31312b252)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:avirajnimja12@gmail.com)
 
-**Let's collaborate!** Open to discussions on AI/ML projects and research opportunities.
-
-</div>
-
----
-
-## 💬 Philosophy
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
-
-My projects are designed with **user experience** and **best practices** in mind, adhering to modern design principles to ensure clarity, functionality, and scalability.
-
----
-
-<div align="center">
-
-### 📈 Recent Activity
-
-Feel free to explore my repositories, star interesting projects, and reach out for collaboration opportunities!
-
-**Last Updated:** 2026-02-09 | Made with ❤️ by Aviraj Nimja
+**Open to AI/ML Engineer, LLM Engineer, and GenAI Engineer roles.**
 
 </div>
